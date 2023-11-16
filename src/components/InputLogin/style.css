@@ -40,31 +40,31 @@
     height: 27px;
     border-radius: 20px;
     padding: 3px;
-    margin-left: 0px;
+    margin-left: 420px;
     background-color: #fff;
   }
 
   #input-login-email {
-    margin-top: 0px;
+    margin-top: -410px;
   }
 
   #input-login-password {
-    margin-top: 0px;
+    margin-top: -340px;
   }
 
   .img-login {
     position: absolute;
-    margin-left: 420px;
+    margin-left: 430px;
     z-index: 2;
     background-color: transparent;
   }
 
   #img-input-login-email {
-    margin-top: 0px;
+    margin-top: -406px;
   }
 
   #img-input-login-password {
-    margin-top: 0px;
+    margin-top: -338px;
   }
 }
 
@@ -75,30 +75,30 @@
     height: 27px;
     border-radius: 20px;
     padding: 3px;
-    margin-left: 0px;
+    margin-left: 615px;
     background-color: #fff;
   }
 
   #input-login-email {
-    margin-top: 0px;
+    margin-top: -400px;
   }
 
   #input-login-password {
-    margin-top: 0px;
+    margin-top: -320px;
   }
 
   .img-login {
     position: absolute;
-    margin-left: 420px;
+    margin-left: 625px;
     z-index: 2;
     background-color: transparent;
   }
 
   #img-input-login-email {
-    margin-top: 0px;
+    margin-top: -396px;
   }
 
   #img-input-login-password {
-    margin-top: 0px;
+    margin-top: -318.5px;
   }
 }

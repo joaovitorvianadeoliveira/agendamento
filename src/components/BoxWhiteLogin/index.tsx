@@ -5,6 +5,7 @@ const BoxWhiteLogin = () => {
   return (
     <div id="boxWhiteLogin">
       <h1 id="title-app">Agendamento de Ambientes Educacionais</h1>
+      <button id="button-continuar">Continuar</button>
       <h2 id="title-login">Login</h2>
       <div id="boxWhiteLogin-gradient">
         <img

@@ -126,7 +126,24 @@
     font-weight: 400;
     line-height: normal;
   }
+
+  #button-continuar{
+    position: absolute;
+    width: 214px;
+    height: 49px;
+    border-radius: 20px;
+    border: none;
+    background: linear-gradient(180deg, #1e90e2 0%, #26b4e8 46%, #0c619e 100%);
+
+    color: #fff; 
+    font-size: 20px;
+    
+    margin-top: 450px;
+    margin-left: 435px;
+  }
+
 }
+
 
 @media (min-width: 1024px) {
   /* Estilos para telas maiores */
@@ -193,5 +210,20 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+  }
+
+  #button-continuar{
+    position: absolute;
+    width: 214px;
+    height: 49px;
+    border-radius: 20px;
+    border: none;
+    background: linear-gradient(180deg, #1e90e2 0%, #26b4e8 46%, #0c619e 100%);
+
+    color: #fff; 
+    font-size: 20px;
+
+    margin-top:375px;
+    margin-left: 628PX;
   }
 }
