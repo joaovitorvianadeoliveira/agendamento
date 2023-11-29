@@ -3,3 +3,11 @@
   padding: 0;
   background-color: #9dc8e8;
 }
+
+body{
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
