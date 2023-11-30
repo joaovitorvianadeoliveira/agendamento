@@ -1,0 +1,17 @@
+@media (max-width: 767px) {}
+
+@media (min-width: 768px) and (max-width: 1023px) {}
+
+@media (min-width: 1024px) {
+
+    #BoxConfig {
+        width: 456px;
+        height: 808px;
+        background: linear-gradient(219deg, rgba(25, 141, 225, 0.98) 26.64%, rgba(129, 188, 231, 0.21) 79.42%), #FFF;
+        border-radius: 100px;
+        margin: 100px;
+    }
+
+
+
+}

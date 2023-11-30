@@ -1,10 +1,15 @@
 import "./style.css"
+interface IProps {
+    path: string;
+    title: string;
 
-const Card = () => {
-    return< >
+}
+const Card = ({ path, title }: IProps) => {
+    return < >
         <div id="container-card">
-            <img id="img-card" src="" alt="" />
-            <span id="title-card"></span>
+            <img id="img-card" src={path} alt="" />
+            <span id="title-card">{title}</span>
+
         </div>
     </>
 }

@@ -24,6 +24,7 @@
         border-bottom: 3px solid black;
         border-right: none;
         border-left: 3px solid black;
+        background-color: transparent;
     }
 
     #search {
@@ -40,14 +41,34 @@
         margin-left: 260px;
         margin-top: 143px;
     }
-    #cards-content{
-        width: 874px;
-        height: 469px;
-        border: 4px solid black;
+
+    #cards-content {
+        width: 810px;
+        height: 402px;
         position: absolute;
         background-color: transparent;
-        margin-left: 39px;
-        margin-top: 239px;
+        margin-left: 10px;
+        margin-top: 185px;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 60px;
+        gap: 60px;
+        justify-content: center;
+
+
+
+    }
+
+    #computador {
+        width: 127px;
+        height: 114px;
+        border-radius: 15px;
+        background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+        position: absolute;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
 
     }
 

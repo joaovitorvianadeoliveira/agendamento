@@ -9,9 +9,35 @@
         border-radius: 15px;
         background: #FFF;
         box-shadow: 11px 11px 8px 3px rgba(0, 0, 0, 0.25);
-        margin-left: 11px;
-        margin-top: 5px;
-        
+        /* margin-left: 11px;
+        margin-top: 5px; */
+
     }
-  
+
+    #img-card {
+        width: 127px;
+        height: 114px;
+        margin-left: 27px;
+        margin-top: 9px;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    #title-card {
+        display: flex;
+        width: 166px;
+        height: 52px;
+        flex-direction: column;
+        justify-content: center;
+        background-color: transparent;
+        color: rgba(0, 0, 0, 0.80);
+        text-align: center;
+        font-family: Inknut Antiqua;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+
 }
